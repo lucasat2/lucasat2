@@ -2,6 +2,23 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=2000&color=71B8B6&size=28&center=true&multiline=true&repeat=false&random=false&width=1000&height=80&lines=Desenvolvedor+Front-End)](https://git.io/typing-svg)
 
+😃 Olá, me chamo Lucas Ataíde!
+
+💬 Graduado em Técnico em Desenvolvimento de Sistemas e Bacharel em Sistemas de Informação
+
+📫[Acesse o meu Linkedin](https://www.linkedin.com/in/lucas-ataide-de-paiva-125629246/)
+
+<div align=center>
+  <h1>Minhas tecnologias</h1>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="70px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width ="70px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width = "70px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width ="70px" />
+</div>
+
+      
+<div align="center">  
+<img src="https://www.galaxcms.com.br/imgs_redactor/1516/files/Programador%20O%20que%20faz%20este%20profissional.gif" width="300px" />
+</div>
+
 <div align="center">  
 <img src="https://streak-stats.demolab.com?user=lucasat2&theme=shadow-orange&hide_border=true" alt="GitHub Streak" />
 </div>
@@ -13,9 +30,3 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lucasat2&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-### Skills:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
