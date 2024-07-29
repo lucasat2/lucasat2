@@ -20,7 +20,7 @@
 </div>
 
 <div align="center">  
-<img src="https://streak-stats.demolab.com?user=lucasat2&theme=shadow-orange&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=lucasat2&theme=algolia&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">  
