@@ -6,7 +6,7 @@
 
 💬 Graduado em Técnico em Desenvolvimento de Sistemas e Bacharel em Sistemas de Informação
 
-📫[Acesse o meu Linkedin](https://www.linkedin.com/in/lucas-ataide-de-paiva-125629246/)
+📫[Acesse o meu Linkedin](https://www.linkedin.com/in/lucasataidepaiva/)
 
 <div align=center>
   <h1>Minhas tecnologias</h1>
