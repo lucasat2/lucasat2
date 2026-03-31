@@ -1,36 +1,47 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=105161&text=Lucas%20Ataide&fontColor=F4F4F4&fontAlign=75&fontSize=46"/>
-
-😃 Olá, me chamo Lucas Ataíde!
-
-💬 Bacharel em Sistemas de Informação e Técnico em Análise de Dados. Focado em transformar dados em insights estratégicos.
-
-📫 Acesse o meu Linkedin
-
-<div align=center>
-<h1>Minhas tecnologias</h1>
-
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon%40latest/icons/python/python-original.svg" width="70px" title="Python" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon%40latest/icons/pandas/pandas-original.svg" width="70px" title="Pandas" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon%40latest/icons/mysql/mysql-original-wordmark.svg" width="70px" title="SQL" />
-<img src="https://www.google.com/search?q=https://cdn.jsdelivr.net/gh/devicons/devicon%40latest/icons/googlecloud/googlecloud-original.svg" width="70px" title="Data Analysis" />
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=105161&text=Lucas%20Ataide&fontColor=F4F4F4&fontAlign=75&fontSize=46&subtext=Analista%20de%20Dados&subFontSize=20"/>
 
 <div align="center">
-
-<img src="https://www.google.com/search?q=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZicnZueXNueXNueXNueXNueXNueXNueXNueXNueXNueXNueCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKVUn7iM8FMEU24/giphy.gif" width="300px" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=2000&color=71B8B6&size=28&center=true&multiline=true&width=1000&height=80&lines=Data+Analyst;Python+|+SQL+|+Power+BI;Insights+e+Visualização+de+Dados" alt="Typing SVG" />
 </div>
 
+### 🎯 Perfil Profissional
+Analista de Dados focado em extração, tratamento e visualização de dados para suporte à tomada de decisão. Sólida base em lógica de programação e arquitetura de sistemas.
+
+* 🎓 **Bacharel em Sistemas de Informação**
+* 📜 **Técnico em Análise de Dados**
+
+---
+
+### 🛠️ Stack Tecnológica
+
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=lucasat2&theme=great-gatsby&hide_border=true" alt="GitHub Streak" />
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
+---
+
+### 📊 Atividade e Presença
 <div align="center">
+  <a href="https://www.linkedin.com/in/lucasataidepaiva/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/lucasat2">
+    <img src="https://img.shields.io/badge/Meu_Portfólio-000?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  </a>
+</div>
 
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lucasat2&show_icons=true&count_private=true&hide_border=true&title_color=DE7325&icon_color=DE7325&text_color=c9d1d9&bg_color=0d1117" alt="lucasat2 25 stats" />
+<br>
 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasat2&layout=compact&hide_border=true&title_color=DE7325&text_color=c9d1d9&bg_color=0d1117" />
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucasat2&bg_color=0d1117&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true" width="100%" />
 </div>
