@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=105161&text=Lucas%20Ataide&fontColor=F4F4F4&fontAlign=75&fontSize=46&subtext=Analista%20de%20Dados&subFontSize=20"/>
 
-<h1 align="center">Lucas Ataide</h1>
-
 <p align="center">
   <b>Instrutor Full Stack & Desenvolvedor Web</b><br>
   JavaScript | React | Node.js | MySQL
